@@ -1,1 +1,5 @@
-{}
+{
+  "[javascript]": {
+    "editor.formatOnSave": true
+  }
+}
